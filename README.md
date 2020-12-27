@@ -2,6 +2,7 @@
 Tugas Statistik Komputasi dengan Algoritma Naive Bayes
 
 Nama : Husain Taufiqqurrahman
+
 NPM  : 19081010075
 
 Saya menggunakan jupyter notebook dalam mengeksekusi program. Terdapat 8 kategori dalam menentukan kemungkinan terkena penyakit jantung antara lain :
